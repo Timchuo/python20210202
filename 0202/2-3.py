@@ -1,0 +1,10 @@
+import turtle
+OMG = turtle.Turtle()
+OMG.forward(1000)
+OMG.left(900)
+OMG.forward(1000)
+OMG.left(900)
+OMG.forward(1000)
+OMG.left(900)
+OMG.forward(1000)
+OMG.left(900)

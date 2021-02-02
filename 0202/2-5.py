@@ -1,0 +1,11 @@
+import turtle
+OMG = turtle.Turtle()
+GMO = turtle.Screen(1000*1000)
+OMG.forward(1000)
+OMG.left(900)
+OMG.forward(1000)
+OMG.left(900)
+OMG.forward(1000)
+OMG.left(900)
+OMG.forward(1000)
+OMG.left(900)
